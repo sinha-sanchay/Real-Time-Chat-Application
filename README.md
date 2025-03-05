@@ -41,7 +41,7 @@ A real-time chat application built with [Technology/Framework] that allows users
 3. Start chatting with other users in real-time.
 
 ## Result
-![Result](Result/result.png)
+![Result](app/Result/S1.png)
 
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
