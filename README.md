@@ -34,9 +34,8 @@ A real-time chat application built with Spring Boot that allows users to communi
     ```
 
 ## Usage
-1. Open your web browser and navigate to `http://localhost:3000`.
-2. Register a new account or log in with an existing one.
-3. Start chatting with other users in real-time.
+1. Open your web browser and navigate to `http://localhost:8080/chat`.
+2. Start chatting with other users in real-time.
 
 ## Result
 ![Result](app/Result/S1.png)
