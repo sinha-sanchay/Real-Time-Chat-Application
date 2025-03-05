@@ -33,10 +33,6 @@ A real-time chat application built with Spring Boot that allows users to communi
     npm start
     ```
 
-## Usage
-1. Open your web browser and navigate to `http://localhost:8080/chat`.
-2. Start chatting with other users in real-time.
-
 ## Result
 ![Result](app/Result/S1.png)
 
