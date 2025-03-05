@@ -1,15 +1,14 @@
 # Real-Time Chat Application
 
 ## Description
-A real-time chat application built with [Technology/Framework] that allows users to communicate instantly. This project demonstrates the implementation of real-time communication using [Technology/Framework].
+A real-time chat application built with [Spring Boot] that allows users to communicate instantly. This project demonstrates the implementation of real-time communication using [WebSocket].
 
 ## Features
 - User authentication and authorization
 - Real-time messaging
-- User status indicators (online/offline)
 - Group chats
-- Message history
-- Notifications for new messages
+
+
 
 ## Installation
 1. Clone the repository:
