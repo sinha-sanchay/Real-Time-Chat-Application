@@ -4,7 +4,6 @@
 A real-time chat application built with Spring Boot that allows users to communicate instantly. This project demonstrates the implementation of real-time communication using WebSocket.
 
 ## Features
-- User authentication and authorization
 - Real-time messaging
 - Group chats
 
